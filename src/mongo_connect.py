@@ -7,6 +7,7 @@ def main():
     db = client.test_database
     print("Connected to MongoDB!")
 
+    # Got a collection of people in the database is created if it does not exist
     people_collection = db.people
 
 

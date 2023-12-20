@@ -83,9 +83,17 @@ docker-compose down
 
 ## Execute the python main code
 
+Using uvicorn to run the file app with the module app in the port 8000.
+
+The reload flag is used to reload the server automatically when the code is changed.
+
 ```bash
-python3 src/mongo_connect.py
+uvicorn app:app --reload
 ```
+
+## View the API documentation with open api (swagger)
+
+Go to the url http://localhost:8000/docs
 
 ### Additional Information
 

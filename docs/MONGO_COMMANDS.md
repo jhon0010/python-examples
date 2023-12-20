@@ -9,7 +9,6 @@ The collection could not exist, but if it does not exist, MongoDB will create it
 db.people.insertOne({"name":"Jhon",age:33});
 ```
 
-
 ## Finf all documents in a collection
 
 ```bash
