@@ -14,3 +14,14 @@ db.people.insertOne({"name":"Jhon",age:33});
 ```bash
 db.people.find()
 ```
+
+## Find documents with a filter
+
+```bash
+db.people.find({"name":"Jhon"})
+```
+## Delete a document
+
+```bash
+find_one_and_delete
+```
