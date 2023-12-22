@@ -91,6 +91,15 @@ The reload flag is used to reload the server automatically when the code is chan
 uvicorn app:app --reload
 ```
 
+## Run the tests
+
+Go to the test folder and execute the command:
+
+```bash
+pytest
+```
+
+
 ## View the API documentation with open api (swagger)
 
 Go to the url http://localhost:8000/docs
