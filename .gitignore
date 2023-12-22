@@ -9,3 +9,4 @@ src/models/__pycache__/*
 example.png
 src/pytest_playwright/__pycache__/*
 test-results/*
+trace.zip

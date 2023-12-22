@@ -6,7 +6,7 @@ def sync () :
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=False)
         page = browser.new_page()
-        page.goto("http://whatsmyuseragent.org/")
+        page.goto("https://whatsmyuseragent.org/")
         page.screenshot(path="example.png")
         browser.close()
     
@@ -19,7 +19,7 @@ async def main():
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)
         page = await browser.new_page()
-        await page.goto("http://whatsmyuseragent.org/")
+        await page.goto("https://whatsmyuseragent.org/")
         await page.screenshot(path="example.png")
         await browser.close()
         
