@@ -255,3 +255,46 @@ obj1 = Singleton()
 obj2 = Singleton()
 print(obj1 is obj2)  # Output: True
 
+
+"""
+Customizing Copying Behavior with __copy__ and __deepcopy__
+
+When you use the copy module, Python provides two types of copies:
+	1.	Shallow Copy (copy.copy):
+	•	Creates a new object but does not copy nested objects.
+	•	References to nested objects are shared.
+	2.	Deep Copy (copy.deepcopy):
+	•	Creates a new object and recursively copies all nested objects.
+"""
+import copy
+
+class MyClass:
+    def __init__(self, value):
+        self.value = value
+
+    def __copy__(self):
+        print("Shallow copy invoked")
+        new_obj = type(self)(self.value)  # Create a new instance
+        return new_obj
+
+obj = MyClass(10)
+shallow_copy = copy.copy(obj)  # Output: Shallow copy invoked
+
+import copy
+
+class MyClass:
+    def __init__(self, value, nested):
+        self.value = value
+        self.nested = nested
+
+    def __deepcopy__(self, memo):
+        print("Deep copy invoked")
+        new_obj = type(self)(
+            self.value,
+            copy.deepcopy(self.nested, memo)  # Deep copy nested objects
+        )
+        return new_obj
+
+nested = [1, 2, 3]
+obj = MyClass(10, nested)
+deep_copy = copy.deepcopy(obj)  # Output: Deep copy invoked
