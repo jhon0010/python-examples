@@ -91,7 +91,6 @@ Go to the test folder and execute the command:
 pytest
 ```
 
-
 ## View the API documentation with open api (swagger)
 
 Go to the url http://localhost:8000/docs
@@ -99,3 +98,17 @@ Go to the url http://localhost:8000/docs
 ### Additional Information
 
 The Dockerfile and docker-compose.yml files are configured to use the default MongoDB port 27017.
+
+
+# Run the data scripts to play with orders csv 
+
+You can run the data scripts to play with the orders CSV file. The script is designed to read the CSV file and perform some operations on it.
+To run the data scripts, execute the following command:
+
+```bash
+python3 src/data/pandas_polars.py
+python3 src/data/matplot_example.py
+``` 
+You can find other python scripts in the `src/data` directory that interact with the `orders.csv` file.
+
+This will read the `orders.csv` file and perform the operations defined in the script.
