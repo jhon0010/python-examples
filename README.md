@@ -25,7 +25,7 @@ cd python-examples
 From the root of the cloned directory, run:
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 This command starts a MongoDB instance in a Docker container. The -d flag runs the container in detached mode.
@@ -43,7 +43,7 @@ You should see the MongoDB container listed.
 Run the Python script to test the connection:
 
 ```bash
-python mongo_connect.py
+python3 src/mongo_connect.py
 ```
 If the connection is successful, you'll see a message indicating that you're connected to MongoDB.
 
