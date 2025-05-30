@@ -119,6 +119,15 @@ This will read the `orders.csv` file and perform the operations defined in the s
 To run the load tests using Locus, you can use the following command:
 
 ```bash
-locust -f src/locus_test/locus_user_api_test.py
+locust -f test/locus_test/locus_user_api_test.py
 ```
 This command will start the Locus web interface, which you can access at `http://localhost:8089` to configure and run your load tests.
+
+# Run script to run the math benchmark 
+
+To run the math benchmark script, you can use the following command:
+
+```bash
+python3 tests/benchmark/main.py
+```
+

@@ -10,3 +10,5 @@ example.png
 src/pytest_playwright/__pycache__/*
 test-results/*
 trace.zip
+tests/benchmark/__pycache__/*.pyc
+tests/locus_test/__pycache__/*.pyc
