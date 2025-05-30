@@ -39,21 +39,13 @@ docker ps
 
 You should see the MongoDB container listed.
 
-### Step 4: Connect to MongoDB from Python
-Run the Python script to test the connection:
-
-```bash
-python3 src/mongo_connect.py
-```
-If the connection is successful, you'll see a message indicating that you're connected to MongoDB.
 
 ### Stopping MongoDB
 To stop the MongoDB Docker container, run:
 
 ```bash
-docker-compose down
+docker compose down
 ```
-
 
 # Create a virtual env using this command
 

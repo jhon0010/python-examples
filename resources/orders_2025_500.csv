@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,product_id,product_name,quantity,unit_price,order_total,payment_method,shipping_country,shipping_city,status
+ORD2025-00001,2025-01-14,CUST5385,SKU1002,Mechanical Keyboard,4,89.99,359.96,apple_pay,Canada,Toronto,Processing
+ORD2025-00002,2025-04-08,CUST9785,SKU1009,Bluetooth Speaker,3,58.75,176.25,apple_pay,Mexico,Mexico City,Processing
+ORD2025-00003,2025-02-10,CUST3212,SKU1006,Portable SSD 1TB,5,119.99,599.95,apple_pay,Japan,Tokyo,Shipped
+ORD2025-00004,2025-02-11,CUST1027,SKU1015,LED Desk Lamp,4,45.25,181.0,credit_card,Argentina,Buenos Aires,Returned
+ORD2025-00005,2025-04-07,CUST2144,SKU1001,Wireless Mouse,3,25.99,77.97,google_pay,Canada,Toronto,Processing
+ORD2025-00006,2025-01-24,CUST3329,SKU1003,USB‑C Hub 7‑in‑1,1,39.95,39.95,apple_pay,Argentina,Buenos Aires,Cancelled
+ORD2025-00007,2025-05-27,CUST8813,SKU1005,27‑inch 4K Monitor,4,349.0,1396.0,credit_card,South Africa,Cape Town,Delivered
+ORD2025-00008,2025-03-29,CUST9547,SKU1013,Gaming Headset,4,79.99,319.96,paypal,Mexico,Mexico City,Returned
+ORD2025-00009,2025-05-15,CUST6165,SKU1001,Wireless Mouse,4,25.99,103.96,bank_transfer,Spain,Barcelona,Returned
+ORD2025-00010,2025-05-05,CUST9529,SKU1011,Smartphone Stand,4,18.5,74.0,apple_pay,Colombia,Medellín,Processing
+ORD2025-00011,2025-02-16,CUST2353,SKU1015,LED Desk Lamp,4,45.25,181.0,apple_pay,United Kingdom,London,Delivered
+ORD2025-00012,2025-03-28,CUST7409,SKU1015,LED Desk Lamp,1,45.25,45.25,google_pay,Spain,Barcelona,Returned
+ORD2025-00013,2025-03-28,CUST1267,SKU1004,Noise‑Cancelling Headphones,5,129.5,647.5,credit_card,Mexico,Mexico City,Delivered
+ORD2025-00014,2025-01-04,CUST6765,SKU1004,Noise‑Cancelling Headphones,4,129.5,518.0,bank_transfer,Colombia,Medellín,Processing
+ORD2025-00015,2025-03-15,CUST9106,SKU1013,Gaming Headset,6,79.99,479.94,paypal,Colombia,Medellín,Cancelled
+ORD2025-00016,2025-02-15,CUST3519,SKU1009,Bluetooth Speaker,4,58.75,235.0,google_pay,South Africa,Cape Town,Cancelled
+ORD2025-00017,2025-01-12,CUST1166,SKU1003,USB‑C Hub 7‑in‑1,4,39.95,159.8,paypal,United States,New York,Delivered
+ORD2025-00018,2025-04-01,CUST5455,SKU1007,Webcam 1080p,6,49.49,296.94,google_pay,United States,New York,Processing
+ORD2025-00019,2025-01-17,CUST9361,SKU1006,Portable SSD 1TB,6,119.99,719.94,credit_card,Canada,Toronto,Cancelled
+ORD2025-00020,2025-01-03,CUST9778,SKU1007,Webcam 1080p,1,49.49,49.49,bank_transfer,Japan,Tokyo,Cancelled
+ORD2025-00021,2025-01-08,CUST6283,SKU1005,27‑inch 4K Monitor,4,349.0,1396.0,credit_card,South Africa,Cape Town,Returned
+ORD2025-00022,2025-03-27,CUST7784,SKU1006,Portable SSD 1TB,1,119.99,119.99,paypal,Argentina,Buenos Aires,Cancelled
+ORD2025-00023,2025-01-17,CUST3359,SKU1006,Portable SSD 1TB,6,119.99,719.94,paypal,Japan,Tokyo,Processing
+ORD2025-00024,2025-01-15,CUST9498,SKU1007,Webcam 1080p,5,49.49,247.45,apple_pay,United Kingdom,London,Delivered
+ORD2025-00025,2025-04-10,CUST7037,SKU1003,USB‑C Hub 7‑in‑1,5,39.95,199.75,apple_pay,Colombia,Medellín,Processing
+ORD2025-00026,2025-02-12,CUST7328,SKU1007,Webcam 1080p,1,49.49,49.49,paypal,Brazil,São Paulo,Processing
+ORD2025-00027,2025-03-31,CUST8368,SKU1014,Graphic Tablet,6,269.0,1614.0,google_pay,Germany,Berlin,Cancelled
+ORD2025-00028,2025-01-08,CUST3598,SKU1009,Bluetooth Speaker,3,58.75,176.25,bank_transfer,Colombia,Medellín,Returned
+ORD2025-00029,2025-02-05,CUST6629,SKU1009,Bluetooth Speaker,1,58.75,58.75,bank_transfer,Japan,Tokyo,Delivered
+ORD2025-00030,2025-02-27,CUST6571,SKU1002,Mechanical Keyboard,3,89.99,269.97,bank_transfer,Netherlands,Eindhoven,Shipped
+ORD2025-00031,2025-03-24,CUST5334,SKU1007,Webcam 1080p,1,49.49,49.49,bank_transfer,Canada,Toronto,Shipped
+ORD2025-00032,2025-05-10,CUST4268,SKU1013,Gaming Headset,1,79.99,79.99,paypal,Germany,Berlin,Returned
+ORD2025-00033,2025-03-01,CUST2394,SKU1010,Ergonomic Chair,3,199.99,599.97,credit_card,France,Paris,Returned
+ORD2025-00034,2025-05-18,CUST3186,SKU1015,LED Desk Lamp,5,45.25,226.25,paypal,South Africa,Cape Town,Cancelled
+ORD2025-00035,2025-05-07,CUST7526,SKU1013,Gaming Headset,1,79.99,79.99,apple_pay,Japan,Tokyo,Returned
+ORD2025-00036,2025-05-05,CUST6579,SKU1007,Webcam 1080p,2,49.49,98.98,bank_transfer,Argentina,Buenos Aires,Shipped
+ORD2025-00037,2025-01-02,CUST9101,SKU1006,Portable SSD 1TB,6,119.99,719.94,bank_transfer,Canada,Toronto,Processing
+ORD2025-00038,2025-04-03,CUST8549,SKU1006,Portable SSD 1TB,6,119.99,719.94,google_pay,France,Paris,Delivered
+ORD2025-00039,2025-02-25,CUST8357,SKU1006,Portable SSD 1TB,2,119.99,239.98,paypal,Spain,Barcelona,Processing
+ORD2025-00040,2025-04-17,CUST7149,SKU1009,Bluetooth Speaker,3,58.75,176.25,paypal,Mexico,Mexico City,Returned
+ORD2025-00041,2025-04-07,CUST7037,SKU1002,Mechanical Keyboard,3,89.99,269.97,credit_card,Argentina,Buenos Aires,Delivered
+ORD2025-00042,2025-05-09,CUST6279,SKU1001,Wireless Mouse,4,25.99,103.96,credit_card,Australia,Sydney,Cancelled
+ORD2025-00043,2025-03-18,CUST2760,SKU1008,Laptop Stand Aluminum,5,32.9,164.5,apple_pay,Netherlands,Eindhoven,Cancelled
+ORD2025-00044,2025-03-10,CUST8196,SKU1010,Ergonomic Chair,5,199.99,999.95,apple_pay,Netherlands,Eindhoven,Cancelled
+ORD2025-00045,2025-05-09,CUST5505,SKU1006,Portable SSD 1TB,1,119.99,119.99,paypal,Canada,Toronto,Processing
+ORD2025-00046,2025-04-20,CUST9133,SKU1012,USB‑C Charger 65W,2,34.9,69.8,google_pay,Colombia,Medellín,Processing
+ORD2025-00047,2025-05-01,CUST9878,SKU1003,USB‑C Hub 7‑in‑1,3,39.95,119.85,apple_pay,Argentina,Buenos Aires,Shipped
+ORD2025-00048,2025-01-09,CUST8592,SKU1009,Bluetooth Speaker,5,58.75,293.75,apple_pay,Japan,Tokyo,Returned
+ORD2025-00049,2025-01-04,CUST6253,SKU1012,USB‑C Charger 65W,4,34.9,139.6,paypal,Japan,Tokyo,Processing
+ORD2025-00050,2025-03-06,CUST5670,SKU1003,USB‑C Hub 7‑in‑1,4,39.95,159.8,apple_pay,Spain,Barcelona,Processing
+ORD2025-00051,2025-01-04,CUST9139,SKU1011,Smartphone Stand,2,18.5,37.0,paypal,United States,New York,Delivered
+ORD2025-00052,2025-05-15,CUST3718,SKU1013,Gaming Headset,6,79.99,479.94,bank_transfer,Mexico,Mexico City,Shipped
+ORD2025-00053,2025-03-19,CUST9189,SKU1014,Graphic Tablet,4,269.0,1076.0,paypal,Germany,Berlin,Returned
+ORD2025-00054,2025-01-24,CUST2691,SKU1008,Laptop Stand Aluminum,5,32.9,164.5,bank_transfer,Colombia,Medellín,Delivered
+ORD2025-00055,2025-02-19,CUST9531,SKU1015,LED Desk Lamp,1,45.25,45.25,google_pay,Spain,Barcelona,Cancelled
+ORD2025-00056,2025-01-29,CUST1985,SKU1010,Ergonomic Chair,4,199.99,799.96,google_pay,Colombia,Medellín,Delivered
+ORD2025-00057,2025-02-09,CUST9080,SKU1003,USB‑C Hub 7‑in‑1,2,39.95,79.9,paypal,Netherlands,Eindhoven,Processing
+ORD2025-00058,2025-03-04,CUST4410,SKU1002,Mechanical Keyboard,4,89.99,359.96,credit_card,United States,New York,Cancelled
+ORD2025-00059,2025-03-24,CUST9960,SKU1001,Wireless Mouse,1,25.99,25.99,paypal,Japan,Tokyo,Cancelled
+ORD2025-00060,2025-03-16,CUST4046,SKU1005,27‑inch 4K Monitor,1,349.0,349.0,apple_pay,India,Bangalore,Delivered
+ORD2025-00061,2025-02-24,CUST9445,SKU1001,Wireless Mouse,6,25.99,155.94,apple_pay,South Africa,Cape Town,Shipped
+ORD2025-00062,2025-04-30,CUST4685,SKU1007,Webcam 1080p,2,49.49,98.98,bank_transfer,India,Bangalore,Cancelled
+ORD2025-00063,2025-04-11,CUST4095,SKU1007,Webcam 1080p,1,49.49,49.49,google_pay,Mexico,Mexico City,Processing
+ORD2025-00064,2025-03-15,CUST3281,SKU1008,Laptop Stand Aluminum,6,32.9,197.4,credit_card,United Kingdom,London,Processing
+ORD2025-00065,2025-04-28,CUST6781,SKU1009,Bluetooth Speaker,5,58.75,293.75,credit_card,Brazil,São Paulo,Returned
+ORD2025-00066,2025-04-01,CUST5730,SKU1006,Portable SSD 1TB,2,119.99,239.98,google_pay,Argentina,Buenos Aires,Processing
+ORD2025-00067,2025-01-28,CUST9331,SKU1014,Graphic Tablet,1,269.0,269.0,bank_transfer,India,Bangalore,Delivered
+ORD2025-00068,2025-01-22,CUST4374,SKU1007,Webcam 1080p,2,49.49,98.98,google_pay,United Kingdom,London,Cancelled
+ORD2025-00069,2025-02-05,CUST1087,SKU1003,USB‑C Hub 7‑in‑1,1,39.95,39.95,apple_pay,United States,New York,Processing
+ORD2025-00070,2025-02-07,CUST4589,SKU1008,Laptop Stand Aluminum,4,32.9,131.6,paypal,India,Bangalore,Cancelled
+ORD2025-00071,2025-01-16,CUST1923,SKU1003,USB‑C Hub 7‑in‑1,1,39.95,39.95,google_pay,Japan,Tokyo,Processing
+ORD2025-00072,2025-02-04,CUST1674,SKU1006,Portable SSD 1TB,4,119.99,479.96,paypal,Mexico,Mexico City,Shipped
+ORD2025-00073,2025-03-02,CUST8066,SKU1006,Portable SSD 1TB,6,119.99,719.94,paypal,Canada,Toronto,Processing
+ORD2025-00074,2025-03-16,CUST6363,SKU1011,Smartphone Stand,4,18.5,74.0,apple_pay,South Africa,Cape Town,Shipped
+ORD2025-00075,2025-01-16,CUST1949,SKU1009,Bluetooth Speaker,1,58.75,58.75,credit_card,Argentina,Buenos Aires,Shipped
+ORD2025-00076,2025-03-15,CUST4841,SKU1003,USB‑C Hub 7‑in‑1,5,39.95,199.75,credit_card,South Africa,Cape Town,Returned
+ORD2025-00077,2025-05-20,CUST5313,SKU1015,LED Desk Lamp,4,45.25,181.0,bank_transfer,France,Paris,Delivered
+ORD2025-00078,2025-02-03,CUST7829,SKU1015,LED Desk Lamp,1,45.25,45.25,bank_transfer,Germany,Berlin,Delivered
+ORD2025-00079,2025-03-22,CUST1053,SKU1013,Gaming Headset,3,79.99,239.97,bank_transfer,South Africa,Cape Town,Processing
+ORD2025-00080,2025-03-17,CUST2308,SKU1007,Webcam 1080p,6,49.49,296.94,paypal,Australia,Sydney,Delivered
+ORD2025-00081,2025-04-24,CUST2714,SKU1012,USB‑C Charger 65W,5,34.9,174.5,bank_transfer,Netherlands,Eindhoven,Cancelled
+ORD2025-00082,2025-01-19,CUST4140,SKU1004,Noise‑Cancelling Headphones,6,129.5,777.0,apple_pay,Spain,Barcelona,Cancelled
+ORD2025-00083,2025-03-14,CUST9923,SKU1003,USB‑C Hub 7‑in‑1,4,39.95,159.8,credit_card,Germany,Berlin,Processing
+ORD2025-00084,2025-02-11,CUST4156,SKU1006,Portable SSD 1TB,2,119.99,239.98,credit_card,United Kingdom,London,Returned
+ORD2025-00085,2025-01-26,CUST5431,SKU1002,Mechanical Keyboard,1,89.99,89.99,apple_pay,United States,New York,Delivered
+ORD2025-00086,2025-04-03,CUST3131,SKU1005,27‑inch 4K Monitor,4,349.0,1396.0,credit_card,Australia,Sydney,Delivered
+ORD2025-00087,2025-05-13,CUST2955,SKU1011,Smartphone Stand,5,18.5,92.5,credit_card,Argentina,Buenos Aires,Delivered
+ORD2025-00088,2025-03-15,CUST6053,SKU1008,Laptop Stand Aluminum,2,32.9,65.8,credit_card,Canada,Toronto,Processing
+ORD2025-00089,2025-01-26,CUST8224,SKU1014,Graphic Tablet,4,269.0,1076.0,apple_pay,India,Bangalore,Shipped
+ORD2025-00090,2025-02-03,CUST7347,SKU1001,Wireless Mouse,4,25.99,103.96,paypal,Netherlands,Eindhoven,Processing
+ORD2025-00091,2025-04-17,CUST3124,SKU1013,Gaming Headset,1,79.99,79.99,paypal,Colombia,Medellín,Delivered
+ORD2025-00092,2025-04-18,CUST3754,SKU1013,Gaming Headset,4,79.99,319.96,apple_pay,Canada,Toronto,Processing
+ORD2025-00093,2025-02-01,CUST7450,SKU1005,27‑inch 4K Monitor,5,349.0,1745.0,credit_card,India,Bangalore,Returned
+ORD2025-00094,2025-02-18,CUST6084,SKU1005,27‑inch 4K Monitor,5,349.0,1745.0,bank_transfer,South Africa,Cape Town,Delivered
+ORD2025-00095,2025-01-06,CUST3380,SKU1005,27‑inch 4K Monitor,3,349.0,1047.0,paypal,Spain,Barcelona,Shipped
+ORD2025-00096,2025-05-08,CUST1736,SKU1007,Webcam 1080p,1,49.49,49.49,paypal,United Kingdom,London,Processing
+ORD2025-00097,2025-05-21,CUST4643,SKU1015,LED Desk Lamp,1,45.25,45.25,google_pay,Australia,Sydney,Shipped
+ORD2025-00098,2025-04-13,CUST8111,SKU1012,USB‑C Charger 65W,5,34.9,174.5,apple_pay,Canada,Toronto,Shipped
+ORD2025-00099,2025-01-23,CUST8197,SKU1001,Wireless Mouse,5,25.99,129.95,apple_pay,Japan,Tokyo,Processing
+ORD2025-00100,2025-02-23,CUST1583,SKU1003,USB‑C Hub 7‑in‑1,6,39.95,239.7,bank_transfer,Canada,Toronto,Processing
+ORD2025-00101,2025-04-16,CUST8741,SKU1010,Ergonomic Chair,4,199.99,799.96,apple_pay,India,Bangalore,Shipped
+ORD2025-00102,2025-04-14,CUST8022,SKU1011,Smartphone Stand,6,18.5,111.0,credit_card,Canada,Toronto,Processing
+ORD2025-00103,2025-02-25,CUST3494,SKU1011,Smartphone Stand,6,18.5,111.0,paypal,South Africa,Cape Town,Returned
+ORD2025-00104,2025-03-19,CUST6976,SKU1009,Bluetooth Speaker,4,58.75,235.0,apple_pay,Germany,Berlin,Cancelled
+ORD2025-00105,2025-02-17,CUST9741,SKU1009,Bluetooth Speaker,6,58.75,352.5,bank_transfer,Canada,Toronto,Processing
+ORD2025-00106,2025-02-06,CUST9515,SKU1013,Gaming Headset,5,79.99,399.95,bank_transfer,Canada,Toronto,Cancelled
+ORD2025-00107,2025-03-05,CUST8854,SKU1001,Wireless Mouse,3,25.99,77.97,apple_pay,South Africa,Cape Town,Cancelled
+ORD2025-00108,2025-04-06,CUST5656,SKU1014,Graphic Tablet,5,269.0,1345.0,bank_transfer,Australia,Sydney,Delivered
+ORD2025-00109,2025-02-20,CUST3771,SKU1001,Wireless Mouse,3,25.99,77.97,credit_card,Australia,Sydney,Processing
+ORD2025-00110,2025-05-06,CUST7102,SKU1013,Gaming Headset,4,79.99,319.96,paypal,Argentina,Buenos Aires,Processing
+ORD2025-00111,2025-01-19,CUST4793,SKU1010,Ergonomic Chair,4,199.99,799.96,paypal,Colombia,Medellín,Processing
+ORD2025-00112,2025-05-05,CUST9612,SKU1013,Gaming Headset,2,79.99,159.98,bank_transfer,Brazil,São Paulo,Delivered
+ORD2025-00113,2025-03-22,CUST7819,SKU1013,Gaming Headset,6,79.99,479.94,apple_pay,France,Paris,Cancelled
+ORD2025-00114,2025-02-15,CUST4854,SKU1002,Mechanical Keyboard,6,89.99,539.94,credit_card,Japan,Tokyo,Returned
+ORD2025-00115,2025-02-06,CUST7045,SKU1015,LED Desk Lamp,1,45.25,45.25,paypal,United Kingdom,London,Shipped
+ORD2025-00116,2025-04-13,CUST3929,SKU1013,Gaming Headset,5,79.99,399.95,paypal,Colombia,Medellín,Shipped
+ORD2025-00117,2025-05-05,CUST9194,SKU1011,Smartphone Stand,1,18.5,18.5,google_pay,United Kingdom,London,Delivered
+ORD2025-00118,2025-03-31,CUST9272,SKU1011,Smartphone Stand,4,18.5,74.0,paypal,Canada,Toronto,Cancelled
+ORD2025-00119,2025-05-01,CUST7493,SKU1006,Portable SSD 1TB,1,119.99,119.99,google_pay,Mexico,Mexico City,Cancelled
+ORD2025-00120,2025-01-23,CUST6362,SKU1008,Laptop Stand Aluminum,4,32.9,131.6,credit_card,Canada,Toronto,Processing
+ORD2025-00121,2025-04-01,CUST6982,SKU1006,Portable SSD 1TB,2,119.99,239.98,bank_transfer,Japan,Tokyo,Returned
+ORD2025-00122,2025-05-02,CUST6589,SKU1011,Smartphone Stand,2,18.5,37.0,credit_card,United Kingdom,London,Shipped
+ORD2025-00123,2025-04-25,CUST4315,SKU1014,Graphic Tablet,6,269.0,1614.0,google_pay,Spain,Barcelona,Processing
+ORD2025-00124,2025-03-31,CUST3048,SKU1005,27‑inch 4K Monitor,3,349.0,1047.0,bank_transfer,Germany,Berlin,Processing
+ORD2025-00125,2025-03-30,CUST4372,SKU1013,Gaming Headset,1,79.99,79.99,credit_card,Colombia,Medellín,Shipped
+ORD2025-00126,2025-05-13,CUST1164,SKU1010,Ergonomic Chair,4,199.99,799.96,bank_transfer,Spain,Barcelona,Cancelled
+ORD2025-00127,2025-05-08,CUST2050,SKU1013,Gaming Headset,2,79.99,159.98,paypal,France,Paris,Shipped
+ORD2025-00128,2025-03-26,CUST7794,SKU1012,USB‑C Charger 65W,4,34.9,139.6,credit_card,Spain,Barcelona,Processing
+ORD2025-00129,2025-04-02,CUST9350,SKU1007,Webcam 1080p,1,49.49,49.49,paypal,Germany,Berlin,Processing
+ORD2025-00130,2025-01-31,CUST7032,SKU1003,USB‑C Hub 7‑in‑1,2,39.95,79.9,credit_card,Mexico,Mexico City,Processing
+ORD2025-00131,2025-04-19,CUST8348,SKU1015,LED Desk Lamp,6,45.25,271.5,google_pay,Brazil,São Paulo,Processing
+ORD2025-00132,2025-04-17,CUST1844,SKU1002,Mechanical Keyboard,3,89.99,269.97,bank_transfer,Spain,Barcelona,Cancelled
+ORD2025-00133,2025-03-27,CUST7025,SKU1006,Portable SSD 1TB,1,119.99,119.99,apple_pay,Australia,Sydney,Shipped
+ORD2025-00134,2025-01-31,CUST1441,SKU1008,Laptop Stand Aluminum,4,32.9,131.6,bank_transfer,France,Paris,Processing
+ORD2025-00135,2025-02-22,CUST5702,SKU1006,Portable SSD 1TB,6,119.99,719.94,apple_pay,United Kingdom,London,Delivered
+ORD2025-00136,2025-05-01,CUST6909,SKU1004,Noise‑Cancelling Headphones,5,129.5,647.5,credit_card,Australia,Sydney,Cancelled
+ORD2025-00137,2025-02-09,CUST4407,SKU1006,Portable SSD 1TB,2,119.99,239.98,google_pay,Colombia,Medellín,Shipped
+ORD2025-00138,2025-03-21,CUST3665,SKU1004,Noise‑Cancelling Headphones,4,129.5,518.0,google_pay,South Africa,Cape Town,Delivered
+ORD2025-00139,2025-05-02,CUST8322,SKU1008,Laptop Stand Aluminum,3,32.9,98.7,google_pay,Japan,Tokyo,Delivered
+ORD2025-00140,2025-01-21,CUST7449,SKU1014,Graphic Tablet,4,269.0,1076.0,credit_card,Argentina,Buenos Aires,Returned
+ORD2025-00141,2025-03-24,CUST7271,SKU1010,Ergonomic Chair,5,199.99,999.95,bank_transfer,Colombia,Medellín,Shipped
+ORD2025-00142,2025-03-01,CUST1939,SKU1003,USB‑C Hub 7‑in‑1,6,39.95,239.7,google_pay,South Africa,Cape Town,Returned
+ORD2025-00143,2025-04-24,CUST5468,SKU1010,Ergonomic Chair,2,199.99,399.98,apple_pay,United Kingdom,London,Returned
+ORD2025-00144,2025-03-02,CUST7836,SKU1013,Gaming Headset,6,79.99,479.94,credit_card,Australia,Sydney,Cancelled
+ORD2025-00145,2025-05-21,CUST2035,SKU1006,Portable SSD 1TB,4,119.99,479.96,paypal,United Kingdom,London,Delivered
+ORD2025-00146,2025-02-02,CUST3289,SKU1013,Gaming Headset,3,79.99,239.97,google_pay,United Kingdom,London,Shipped
+ORD2025-00147,2025-04-27,CUST5394,SKU1010,Ergonomic Chair,2,199.99,399.98,bank_transfer,Mexico,Mexico City,Shipped
+ORD2025-00148,2025-03-17,CUST4133,SKU1010,Ergonomic Chair,5,199.99,999.95,credit_card,South Africa,Cape Town,Delivered
+ORD2025-00149,2025-02-19,CUST8329,SKU1001,Wireless Mouse,2,25.99,51.98,paypal,South Africa,Cape Town,Delivered
+ORD2025-00150,2025-02-11,CUST6337,SKU1001,Wireless Mouse,1,25.99,25.99,paypal,United States,New York,Delivered
+ORD2025-00151,2025-02-25,CUST2369,SKU1003,USB‑C Hub 7‑in‑1,4,39.95,159.8,google_pay,United Kingdom,London,Processing
+ORD2025-00152,2025-05-23,CUST9588,SKU1001,Wireless Mouse,5,25.99,129.95,paypal,India,Bangalore,Processing
+ORD2025-00153,2025-04-17,CUST3552,SKU1004,Noise‑Cancelling Headphones,6,129.5,777.0,apple_pay,United Kingdom,London,Cancelled
+ORD2025-00154,2025-02-02,CUST7042,SKU1012,USB‑C Charger 65W,4,34.9,139.6,credit_card,Australia,Sydney,Cancelled
+ORD2025-00155,2025-03-21,CUST8097,SKU1007,Webcam 1080p,6,49.49,296.94,bank_transfer,United Kingdom,London,Returned
+ORD2025-00156,2025-02-06,CUST4152,SKU1004,Noise‑Cancelling Headphones,3,129.5,388.5,google_pay,Colombia,Medellín,Shipped
+ORD2025-00157,2025-02-20,CUST3602,SKU1009,Bluetooth Speaker,2,58.75,117.5,paypal,Brazil,São Paulo,Processing
+ORD2025-00158,2025-01-25,CUST5958,SKU1011,Smartphone Stand,2,18.5,37.0,credit_card,Brazil,São Paulo,Cancelled
+ORD2025-00159,2025-03-01,CUST4796,SKU1013,Gaming Headset,5,79.99,399.95,google_pay,Argentina,Buenos Aires,Processing
+ORD2025-00160,2025-03-10,CUST5120,SKU1009,Bluetooth Speaker,3,58.75,176.25,apple_pay,Netherlands,Eindhoven,Shipped
+ORD2025-00161,2025-02-22,CUST4115,SKU1001,Wireless Mouse,6,25.99,155.94,credit_card,Spain,Barcelona,Returned
+ORD2025-00162,2025-03-19,CUST8999,SKU1002,Mechanical Keyboard,2,89.99,179.98,google_pay,France,Paris,Returned
+ORD2025-00163,2025-01-19,CUST8144,SKU1009,Bluetooth Speaker,3,58.75,176.25,credit_card,South Africa,Cape Town,Cancelled
+ORD2025-00164,2025-01-07,CUST3317,SKU1005,27‑inch 4K Monitor,3,349.0,1047.0,paypal,Brazil,São Paulo,Cancelled
+ORD2025-00165,2025-03-19,CUST2906,SKU1012,USB‑C Charger 65W,4,34.9,139.6,google_pay,France,Paris,Delivered
+ORD2025-00166,2025-02-01,CUST4781,SKU1006,Portable SSD 1TB,6,119.99,719.94,apple_pay,Germany,Berlin,Returned
+ORD2025-00167,2025-05-15,CUST2511,SKU1002,Mechanical Keyboard,1,89.99,89.99,apple_pay,France,Paris,Cancelled
+ORD2025-00168,2025-04-25,CUST7347,SKU1003,USB‑C Hub 7‑in‑1,2,39.95,79.9,paypal,United Kingdom,London,Delivered
+ORD2025-00169,2025-02-22,CUST8423,SKU1013,Gaming Headset,2,79.99,159.98,bank_transfer,Netherlands,Eindhoven,Cancelled
+ORD2025-00170,2025-04-06,CUST7186,SKU1003,USB‑C Hub 7‑in‑1,3,39.95,119.85,bank_transfer,France,Paris,Cancelled
+ORD2025-00171,2025-05-17,CUST8091,SKU1011,Smartphone Stand,6,18.5,111.0,credit_card,Japan,Tokyo,Shipped
+ORD2025-00172,2025-05-02,CUST4693,SKU1011,Smartphone Stand,5,18.5,92.5,paypal,United Kingdom,London,Returned
+ORD2025-00173,2025-03-30,CUST8287,SKU1013,Gaming Headset,6,79.99,479.94,bank_transfer,France,Paris,Processing
+ORD2025-00174,2025-04-30,CUST6517,SKU1008,Laptop Stand Aluminum,6,32.9,197.4,credit_card,Netherlands,Eindhoven,Processing
+ORD2025-00175,2025-03-08,CUST3183,SKU1013,Gaming Headset,3,79.99,239.97,paypal,Brazil,São Paulo,Shipped
+ORD2025-00176,2025-02-10,CUST4964,SKU1009,Bluetooth Speaker,2,58.75,117.5,paypal,India,Bangalore,Delivered
+ORD2025-00177,2025-04-13,CUST9963,SKU1008,Laptop Stand Aluminum,1,32.9,32.9,google_pay,Australia,Sydney,Cancelled
+ORD2025-00178,2025-03-08,CUST6325,SKU1013,Gaming Headset,2,79.99,159.98,credit_card,Netherlands,Eindhoven,Cancelled
+ORD2025-00179,2025-03-19,CUST2511,SKU1015,LED Desk Lamp,3,45.25,135.75,paypal,Spain,Barcelona,Delivered
+ORD2025-00180,2025-04-28,CUST9904,SKU1012,USB‑C Charger 65W,4,34.9,139.6,bank_transfer,United States,New York,Processing
+ORD2025-00181,2025-03-03,CUST3428,SKU1008,Laptop Stand Aluminum,4,32.9,131.6,paypal,Canada,Toronto,Returned
+ORD2025-00182,2025-05-07,CUST1667,SKU1015,LED Desk Lamp,5,45.25,226.25,bank_transfer,Argentina,Buenos Aires,Delivered
+ORD2025-00183,2025-02-03,CUST4162,SKU1004,Noise‑Cancelling Headphones,1,129.5,129.5,credit_card,Canada,Toronto,Returned
+ORD2025-00184,2025-05-18,CUST9259,SKU1008,Laptop Stand Aluminum,5,32.9,164.5,google_pay,Germany,Berlin,Shipped
+ORD2025-00185,2025-03-25,CUST7427,SKU1013,Gaming Headset,6,79.99,479.94,paypal,Colombia,Medellín,Returned
+ORD2025-00186,2025-02-24,CUST4153,SKU1001,Wireless Mouse,6,25.99,155.94,bank_transfer,Argentina,Buenos Aires,Shipped
+ORD2025-00187,2025-03-18,CUST5581,SKU1014,Graphic Tablet,4,269.0,1076.0,apple_pay,United Kingdom,London,Returned
+ORD2025-00188,2025-04-11,CUST6255,SKU1003,USB‑C Hub 7‑in‑1,2,39.95,79.9,paypal,Canada,Toronto,Delivered
+ORD2025-00189,2025-03-01,CUST6976,SKU1002,Mechanical Keyboard,5,89.99,449.95,google_pay,Mexico,Mexico City,Processing
+ORD2025-00190,2025-01-06,CUST7061,SKU1010,Ergonomic Chair,5,199.99,999.95,credit_card,India,Bangalore,Returned
+ORD2025-00191,2025-04-11,CUST6555,SKU1011,Smartphone Stand,1,18.5,18.5,paypal,India,Bangalore,Shipped
+ORD2025-00192,2025-03-19,CUST7749,SKU1004,Noise‑Cancelling Headphones,4,129.5,518.0,bank_transfer,India,Bangalore,Delivered
+ORD2025-00193,2025-02-21,CUST6416,SKU1005,27‑inch 4K Monitor,4,349.0,1396.0,bank_transfer,Japan,Tokyo,Delivered
+ORD2025-00194,2025-05-05,CUST7047,SKU1009,Bluetooth Speaker,5,58.75,293.75,apple_pay,United Kingdom,London,Cancelled
+ORD2025-00195,2025-05-08,CUST9588,SKU1002,Mechanical Keyboard,6,89.99,539.94,paypal,United Kingdom,London,Cancelled
+ORD2025-00196,2025-01-13,CUST6908,SKU1007,Webcam 1080p,6,49.49,296.94,google_pay,India,Bangalore,Shipped
+ORD2025-00197,2025-02-23,CUST6382,SKU1001,Wireless Mouse,2,25.99,51.98,paypal,United Kingdom,London,Returned
+ORD2025-00198,2025-02-02,CUST5294,SKU1004,Noise‑Cancelling Headphones,4,129.5,518.0,paypal,Argentina,Buenos Aires,Returned
+ORD2025-00199,2025-05-12,CUST7266,SKU1007,Webcam 1080p,6,49.49,296.94,paypal,Argentina,Buenos Aires,Processing
+ORD2025-00200,2025-01-17,CUST4719,SKU1015,LED Desk Lamp,6,45.25,271.5,paypal,Netherlands,Eindhoven,Processing
+ORD2025-00201,2025-05-08,CUST6592,SKU1006,Portable SSD 1TB,2,119.99,239.98,google_pay,Spain,Barcelona,Returned
+ORD2025-00202,2025-01-17,CUST9807,SKU1005,27‑inch 4K Monitor,6,349.0,2094.0,google_pay,Japan,Tokyo,Shipped
+ORD2025-00203,2025-05-28,CUST7937,SKU1003,USB‑C Hub 7‑in‑1,3,39.95,119.85,paypal,France,Paris,Returned
+ORD2025-00204,2025-01-10,CUST4032,SKU1013,Gaming Headset,4,79.99,319.96,apple_pay,South Africa,Cape Town,Cancelled
+ORD2025-00205,2025-01-29,CUST1302,SKU1008,Laptop Stand Aluminum,1,32.9,32.9,bank_transfer,Argentina,Buenos Aires,Processing
+ORD2025-00206,2025-04-13,CUST2027,SKU1003,USB‑C Hub 7‑in‑1,6,39.95,239.7,credit_card,United Kingdom,London,Delivered
+ORD2025-00207,2025-02-18,CUST5186,SKU1004,Noise‑Cancelling Headphones,2,129.5,259.0,paypal,Brazil,São Paulo,Processing
+ORD2025-00208,2025-01-10,CUST2147,SKU1009,Bluetooth Speaker,2,58.75,117.5,google_pay,France,Paris,Returned
+ORD2025-00209,2025-02-05,CUST3699,SKU1012,USB‑C Charger 65W,4,34.9,139.6,google_pay,Australia,Sydney,Returned
+ORD2025-00210,2025-03-02,CUST2883,SKU1007,Webcam 1080p,1,49.49,49.49,google_pay,Canada,Toronto,Delivered
+ORD2025-00211,2025-01-19,CUST3337,SKU1015,LED Desk Lamp,4,45.25,181.0,bank_transfer,Colombia,Medellín,Shipped
+ORD2025-00212,2025-05-23,CUST3292,SKU1004,Noise‑Cancelling Headphones,2,129.5,259.0,paypal,United Kingdom,London,Processing
+ORD2025-00213,2025-03-10,CUST6020,SKU1002,Mechanical Keyboard,2,89.99,179.98,paypal,United States,New York,Delivered
+ORD2025-00214,2025-04-06,CUST6944,SKU1015,LED Desk Lamp,1,45.25,45.25,paypal,Colombia,Medellín,Delivered
+ORD2025-00215,2025-01-04,CUST2039,SKU1012,USB‑C Charger 65W,6,34.9,209.4,apple_pay,Canada,Toronto,Returned
+ORD2025-00216,2025-05-13,CUST7494,SKU1004,Noise‑Cancelling Headphones,3,129.5,388.5,apple_pay,Argentina,Buenos Aires,Cancelled
+ORD2025-00217,2025-02-23,CUST8157,SKU1008,Laptop Stand Aluminum,1,32.9,32.9,credit_card,South Africa,Cape Town,Processing
+ORD2025-00218,2025-01-28,CUST2651,SKU1015,LED Desk Lamp,4,45.25,181.0,google_pay,Netherlands,Eindhoven,Returned
+ORD2025-00219,2025-05-16,CUST1171,SKU1015,LED Desk Lamp,5,45.25,226.25,paypal,France,Paris,Shipped
+ORD2025-00220,2025-02-03,CUST3684,SKU1010,Ergonomic Chair,5,199.99,999.95,apple_pay,Mexico,Mexico City,Delivered
+ORD2025-00221,2025-01-17,CUST8321,SKU1001,Wireless Mouse,1,25.99,25.99,apple_pay,Mexico,Mexico City,Returned
+ORD2025-00222,2025-01-20,CUST5289,SKU1007,Webcam 1080p,6,49.49,296.94,google_pay,France,Paris,Processing
+ORD2025-00223,2025-02-02,CUST8611,SKU1011,Smartphone Stand,2,18.5,37.0,bank_transfer,Argentina,Buenos Aires,Returned
+ORD2025-00224,2025-03-21,CUST9736,SKU1012,USB‑C Charger 65W,5,34.9,174.5,apple_pay,Argentina,Buenos Aires,Cancelled
+ORD2025-00225,2025-05-28,CUST5732,SKU1003,USB‑C Hub 7‑in‑1,2,39.95,79.9,paypal,South Africa,Cape Town,Cancelled
+ORD2025-00226,2025-03-22,CUST2178,SKU1002,Mechanical Keyboard,4,89.99,359.96,paypal,Brazil,São Paulo,Cancelled
+ORD2025-00227,2025-03-02,CUST7377,SKU1005,27‑inch 4K Monitor,3,349.0,1047.0,bank_transfer,South Africa,Cape Town,Returned
+ORD2025-00228,2025-03-13,CUST9994,SKU1012,USB‑C Charger 65W,1,34.9,34.9,bank_transfer,Canada,Toronto,Cancelled
+ORD2025-00229,2025-02-02,CUST3274,SKU1008,Laptop Stand Aluminum,4,32.9,131.6,paypal,India,Bangalore,Cancelled
+ORD2025-00230,2025-02-01,CUST5491,SKU1003,USB‑C Hub 7‑in‑1,2,39.95,79.9,credit_card,Canada,Toronto,Returned
+ORD2025-00231,2025-03-14,CUST6535,SKU1003,USB‑C Hub 7‑in‑1,3,39.95,119.85,google_pay,Germany,Berlin,Processing
+ORD2025-00232,2025-03-05,CUST1884,SKU1015,LED Desk Lamp,5,45.25,226.25,google_pay,France,Paris,Cancelled
+ORD2025-00233,2025-01-09,CUST5291,SKU1014,Graphic Tablet,2,269.0,538.0,apple_pay,Brazil,São Paulo,Returned
+ORD2025-00234,2025-02-25,CUST8487,SKU1002,Mechanical Keyboard,2,89.99,179.98,paypal,Mexico,Mexico City,Shipped
+ORD2025-00235,2025-05-12,CUST5924,SKU1003,USB‑C Hub 7‑in‑1,3,39.95,119.85,paypal,Germany,Berlin,Processing
+ORD2025-00236,2025-04-14,CUST6840,SKU1014,Graphic Tablet,2,269.0,538.0,google_pay,Japan,Tokyo,Cancelled
+ORD2025-00237,2025-02-10,CUST1127,SKU1005,27‑inch 4K Monitor,5,349.0,1745.0,bank_transfer,United States,New York,Shipped
+ORD2025-00238,2025-04-23,CUST8140,SKU1003,USB‑C Hub 7‑in‑1,3,39.95,119.85,apple_pay,Germany,Berlin,Processing
+ORD2025-00239,2025-03-02,CUST8243,SKU1004,Noise‑Cancelling Headphones,1,129.5,129.5,credit_card,France,Paris,Delivered
+ORD2025-00240,2025-02-06,CUST7935,SKU1015,LED Desk Lamp,6,45.25,271.5,bank_transfer,Canada,Toronto,Shipped
+ORD2025-00241,2025-04-28,CUST3758,SKU1001,Wireless Mouse,5,25.99,129.95,paypal,Canada,Toronto,Shipped
+ORD2025-00242,2025-02-15,CUST9976,SKU1015,LED Desk Lamp,5,45.25,226.25,bank_transfer,United States,New York,Processing
+ORD2025-00243,2025-01-24,CUST4968,SKU1008,Laptop Stand Aluminum,4,32.9,131.6,bank_transfer,Colombia,Medellín,Delivered
+ORD2025-00244,2025-02-16,CUST7908,SKU1014,Graphic Tablet,4,269.0,1076.0,credit_card,United States,New York,Returned
+ORD2025-00245,2025-03-07,CUST4481,SKU1015,LED Desk Lamp,6,45.25,271.5,google_pay,Australia,Sydney,Delivered
+ORD2025-00246,2025-05-10,CUST1310,SKU1009,Bluetooth Speaker,2,58.75,117.5,paypal,Netherlands,Eindhoven,Delivered
+ORD2025-00247,2025-02-15,CUST9184,SKU1001,Wireless Mouse,4,25.99,103.96,paypal,France,Paris,Returned
+ORD2025-00248,2025-05-08,CUST9800,SKU1008,Laptop Stand Aluminum,6,32.9,197.4,apple_pay,Mexico,Mexico City,Shipped
+ORD2025-00249,2025-01-29,CUST4698,SKU1013,Gaming Headset,5,79.99,399.95,google_pay,Japan,Tokyo,Delivered
+ORD2025-00250,2025-01-20,CUST4353,SKU1006,Portable SSD 1TB,6,119.99,719.94,credit_card,Netherlands,Eindhoven,Delivered
+ORD2025-00251,2025-05-08,CUST7694,SKU1001,Wireless Mouse,6,25.99,155.94,bank_transfer,Mexico,Mexico City,Cancelled
+ORD2025-00252,2025-04-27,CUST4633,SKU1004,Noise‑Cancelling Headphones,4,129.5,518.0,credit_card,Australia,Sydney,Returned
+ORD2025-00253,2025-04-07,CUST6666,SKU1002,Mechanical Keyboard,6,89.99,539.94,paypal,Netherlands,Eindhoven,Processing
+ORD2025-00254,2025-02-26,CUST9606,SKU1013,Gaming Headset,6,79.99,479.94,bank_transfer,Argentina,Buenos Aires,Shipped
+ORD2025-00255,2025-02-14,CUST5225,SKU1007,Webcam 1080p,3,49.49,148.47,paypal,Australia,Sydney,Processing
+ORD2025-00256,2025-01-02,CUST6111,SKU1009,Bluetooth Speaker,3,58.75,176.25,google_pay,India,Bangalore,Processing
+ORD2025-00257,2025-01-04,CUST6345,SKU1011,Smartphone Stand,4,18.5,74.0,google_pay,Mexico,Mexico City,Returned
+ORD2025-00258,2025-03-31,CUST6086,SKU1008,Laptop Stand Aluminum,4,32.9,131.6,google_pay,United Kingdom,London,Shipped
+ORD2025-00259,2025-01-24,CUST8078,SKU1011,Smartphone Stand,1,18.5,18.5,apple_pay,Netherlands,Eindhoven,Processing
+ORD2025-00260,2025-01-02,CUST7661,SKU1003,USB‑C Hub 7‑in‑1,5,39.95,199.75,credit_card,Netherlands,Eindhoven,Delivered
+ORD2025-00261,2025-04-04,CUST5355,SKU1010,Ergonomic Chair,2,199.99,399.98,apple_pay,Colombia,Medellín,Shipped
+ORD2025-00262,2025-05-14,CUST8813,SKU1014,Graphic Tablet,5,269.0,1345.0,credit_card,Germany,Berlin,Delivered
+ORD2025-00263,2025-03-14,CUST7376,SKU1001,Wireless Mouse,6,25.99,155.94,credit_card,Colombia,Medellín,Processing
+ORD2025-00264,2025-04-02,CUST2396,SKU1005,27‑inch 4K Monitor,1,349.0,349.0,bank_transfer,Netherlands,Eindhoven,Processing
+ORD2025-00265,2025-05-17,CUST9324,SKU1012,USB‑C Charger 65W,5,34.9,174.5,google_pay,Colombia,Medellín,Processing
+ORD2025-00266,2025-02-02,CUST5652,SKU1005,27‑inch 4K Monitor,3,349.0,1047.0,bank_transfer,Spain,Barcelona,Delivered
+ORD2025-00267,2025-02-16,CUST4119,SKU1015,LED Desk Lamp,2,45.25,90.5,bank_transfer,Brazil,São Paulo,Cancelled
+ORD2025-00268,2025-03-04,CUST1316,SKU1003,USB‑C Hub 7‑in‑1,3,39.95,119.85,google_pay,Australia,Sydney,Cancelled
+ORD2025-00269,2025-01-14,CUST6539,SKU1005,27‑inch 4K Monitor,5,349.0,1745.0,credit_card,Netherlands,Eindhoven,Cancelled
+ORD2025-00270,2025-02-04,CUST6990,SKU1012,USB‑C Charger 65W,3,34.9,104.7,apple_pay,France,Paris,Returned
+ORD2025-00271,2025-04-04,CUST1767,SKU1002,Mechanical Keyboard,6,89.99,539.94,bank_transfer,United Kingdom,London,Delivered
+ORD2025-00272,2025-03-07,CUST4121,SKU1009,Bluetooth Speaker,6,58.75,352.5,apple_pay,Argentina,Buenos Aires,Shipped
+ORD2025-00273,2025-05-01,CUST5679,SKU1012,USB‑C Charger 65W,5,34.9,174.5,bank_transfer,Argentina,Buenos Aires,Returned
+ORD2025-00274,2025-02-27,CUST6300,SKU1011,Smartphone Stand,4,18.5,74.0,bank_transfer,France,Paris,Cancelled
+ORD2025-00275,2025-04-02,CUST9092,SKU1008,Laptop Stand Aluminum,1,32.9,32.9,bank_transfer,Australia,Sydney,Processing
+ORD2025-00276,2025-04-08,CUST3296,SKU1009,Bluetooth Speaker,3,58.75,176.25,google_pay,Canada,Toronto,Delivered
+ORD2025-00277,2025-03-15,CUST2930,SKU1002,Mechanical Keyboard,2,89.99,179.98,google_pay,France,Paris,Shipped
+ORD2025-00278,2025-04-03,CUST2120,SKU1011,Smartphone Stand,6,18.5,111.0,paypal,France,Paris,Processing
+ORD2025-00279,2025-04-22,CUST2814,SKU1015,LED Desk Lamp,6,45.25,271.5,google_pay,United States,New York,Cancelled
+ORD2025-00280,2025-02-14,CUST9440,SKU1015,LED Desk Lamp,2,45.25,90.5,credit_card,Netherlands,Eindhoven,Returned
+ORD2025-00281,2025-02-10,CUST3941,SKU1001,Wireless Mouse,6,25.99,155.94,credit_card,Colombia,Medellín,Shipped
+ORD2025-00282,2025-01-31,CUST5024,SKU1006,Portable SSD 1TB,1,119.99,119.99,bank_transfer,Japan,Tokyo,Shipped
+ORD2025-00283,2025-05-03,CUST7244,SKU1006,Portable SSD 1TB,2,119.99,239.98,apple_pay,United States,New York,Shipped
+ORD2025-00284,2025-04-20,CUST4879,SKU1014,Graphic Tablet,5,269.0,1345.0,credit_card,Mexico,Mexico City,Delivered
+ORD2025-00285,2025-01-17,CUST9780,SKU1002,Mechanical Keyboard,1,89.99,89.99,bank_transfer,Japan,Tokyo,Returned
+ORD2025-00286,2025-01-23,CUST6745,SKU1003,USB‑C Hub 7‑in‑1,6,39.95,239.7,google_pay,Mexico,Mexico City,Returned
+ORD2025-00287,2025-04-15,CUST8441,SKU1001,Wireless Mouse,1,25.99,25.99,paypal,Canada,Toronto,Shipped
+ORD2025-00288,2025-01-05,CUST7378,SKU1013,Gaming Headset,2,79.99,159.98,paypal,Colombia,Medellín,Processing
+ORD2025-00289,2025-03-17,CUST1893,SKU1007,Webcam 1080p,4,49.49,197.96,bank_transfer,Argentina,Buenos Aires,Cancelled
+ORD2025-00290,2025-05-04,CUST6104,SKU1002,Mechanical Keyboard,2,89.99,179.98,google_pay,Brazil,São Paulo,Shipped
+ORD2025-00291,2025-01-29,CUST7946,SKU1006,Portable SSD 1TB,5,119.99,599.95,paypal,Spain,Barcelona,Delivered
+ORD2025-00292,2025-04-01,CUST3184,SKU1006,Portable SSD 1TB,1,119.99,119.99,credit_card,South Africa,Cape Town,Cancelled
+ORD2025-00293,2025-01-22,CUST8641,SKU1009,Bluetooth Speaker,3,58.75,176.25,bank_transfer,France,Paris,Delivered
+ORD2025-00294,2025-05-06,CUST2247,SKU1009,Bluetooth Speaker,3,58.75,176.25,credit_card,United Kingdom,London,Cancelled
+ORD2025-00295,2025-04-15,CUST7156,SKU1012,USB‑C Charger 65W,4,34.9,139.6,bank_transfer,Germany,Berlin,Delivered
+ORD2025-00296,2025-04-06,CUST9344,SKU1008,Laptop Stand Aluminum,2,32.9,65.8,bank_transfer,Brazil,São Paulo,Delivered
+ORD2025-00297,2025-04-07,CUST2321,SKU1005,27‑inch 4K Monitor,3,349.0,1047.0,paypal,Netherlands,Eindhoven,Processing
+ORD2025-00298,2025-02-24,CUST6592,SKU1010,Ergonomic Chair,6,199.99,1199.94,google_pay,Japan,Tokyo,Processing
+ORD2025-00299,2025-05-03,CUST4022,SKU1008,Laptop Stand Aluminum,3,32.9,98.7,credit_card,United States,New York,Cancelled
+ORD2025-00300,2025-01-12,CUST6042,SKU1002,Mechanical Keyboard,4,89.99,359.96,bank_transfer,United Kingdom,London,Delivered
+ORD2025-00301,2025-02-17,CUST5585,SKU1011,Smartphone Stand,2,18.5,37.0,credit_card,Japan,Tokyo,Shipped
+ORD2025-00302,2025-05-26,CUST2162,SKU1006,Portable SSD 1TB,3,119.99,359.97,bank_transfer,Argentina,Buenos Aires,Shipped
+ORD2025-00303,2025-04-08,CUST9081,SKU1005,27‑inch 4K Monitor,2,349.0,698.0,bank_transfer,Canada,Toronto,Delivered
+ORD2025-00304,2025-03-08,CUST3299,SKU1013,Gaming Headset,4,79.99,319.96,apple_pay,Australia,Sydney,Processing
+ORD2025-00305,2025-01-25,CUST3008,SKU1004,Noise‑Cancelling Headphones,5,129.5,647.5,google_pay,South Africa,Cape Town,Processing
+ORD2025-00306,2025-03-01,CUST3106,SKU1007,Webcam 1080p,6,49.49,296.94,bank_transfer,Canada,Toronto,Delivered
+ORD2025-00307,2025-04-20,CUST2927,SKU1005,27‑inch 4K Monitor,1,349.0,349.0,credit_card,Argentina,Buenos Aires,Returned
+ORD2025-00308,2025-02-19,CUST3835,SKU1006,Portable SSD 1TB,6,119.99,719.94,bank_transfer,Germany,Berlin,Delivered
+ORD2025-00309,2025-04-02,CUST6552,SKU1007,Webcam 1080p,5,49.49,247.45,google_pay,Germany,Berlin,Returned
+ORD2025-00310,2025-01-18,CUST1290,SKU1013,Gaming Headset,4,79.99,319.96,apple_pay,United States,New York,Shipped
+ORD2025-00311,2025-03-06,CUST7898,SKU1003,USB‑C Hub 7‑in‑1,3,39.95,119.85,apple_pay,Spain,Barcelona,Shipped
+ORD2025-00312,2025-02-05,CUST3796,SKU1010,Ergonomic Chair,3,199.99,599.97,apple_pay,Netherlands,Eindhoven,Cancelled
+ORD2025-00313,2025-04-26,CUST9654,SKU1005,27‑inch 4K Monitor,5,349.0,1745.0,bank_transfer,Mexico,Mexico City,Returned
+ORD2025-00314,2025-04-02,CUST5168,SKU1014,Graphic Tablet,3,269.0,807.0,bank_transfer,Netherlands,Eindhoven,Processing
+ORD2025-00315,2025-04-06,CUST1290,SKU1003,USB‑C Hub 7‑in‑1,4,39.95,159.8,credit_card,United Kingdom,London,Processing
+ORD2025-00316,2025-01-18,CUST3051,SKU1004,Noise‑Cancelling Headphones,2,129.5,259.0,google_pay,United Kingdom,London,Processing
+ORD2025-00317,2025-03-01,CUST9778,SKU1015,LED Desk Lamp,5,45.25,226.25,credit_card,United States,New York,Returned
+ORD2025-00318,2025-05-13,CUST3128,SKU1003,USB‑C Hub 7‑in‑1,6,39.95,239.7,credit_card,Spain,Barcelona,Returned
+ORD2025-00319,2025-02-26,CUST4239,SKU1008,Laptop Stand Aluminum,2,32.9,65.8,credit_card,Argentina,Buenos Aires,Processing
+ORD2025-00320,2025-05-02,CUST7059,SKU1014,Graphic Tablet,2,269.0,538.0,credit_card,India,Bangalore,Returned
+ORD2025-00321,2025-04-08,CUST7824,SKU1006,Portable SSD 1TB,3,119.99,359.97,bank_transfer,United States,New York,Processing
+ORD2025-00322,2025-01-05,CUST9319,SKU1015,LED Desk Lamp,3,45.25,135.75,bank_transfer,Colombia,Medellín,Cancelled
+ORD2025-00323,2025-03-10,CUST1571,SKU1015,LED Desk Lamp,4,45.25,181.0,bank_transfer,South Africa,Cape Town,Returned
+ORD2025-00324,2025-03-25,CUST7258,SKU1012,USB‑C Charger 65W,1,34.9,34.9,apple_pay,France,Paris,Shipped
+ORD2025-00325,2025-04-26,CUST5265,SKU1009,Bluetooth Speaker,3,58.75,176.25,paypal,United States,New York,Cancelled
+ORD2025-00326,2025-01-06,CUST3854,SKU1014,Graphic Tablet,4,269.0,1076.0,credit_card,Brazil,São Paulo,Cancelled
+ORD2025-00327,2025-05-12,CUST3700,SKU1007,Webcam 1080p,6,49.49,296.94,google_pay,Australia,Sydney,Delivered
+ORD2025-00328,2025-05-02,CUST9743,SKU1006,Portable SSD 1TB,3,119.99,359.97,apple_pay,Japan,Tokyo,Returned
+ORD2025-00329,2025-03-17,CUST9643,SKU1015,LED Desk Lamp,3,45.25,135.75,bank_transfer,France,Paris,Returned
+ORD2025-00330,2025-03-12,CUST7246,SKU1013,Gaming Headset,2,79.99,159.98,bank_transfer,United Kingdom,London,Returned
+ORD2025-00331,2025-01-08,CUST4034,SKU1015,LED Desk Lamp,6,45.25,271.5,apple_pay,Mexico,Mexico City,Processing
+ORD2025-00332,2025-05-03,CUST5482,SKU1014,Graphic Tablet,1,269.0,269.0,apple_pay,France,Paris,Returned
+ORD2025-00333,2025-01-27,CUST5291,SKU1010,Ergonomic Chair,2,199.99,399.98,bank_transfer,Germany,Berlin,Delivered
+ORD2025-00334,2025-01-02,CUST8787,SKU1005,27‑inch 4K Monitor,1,349.0,349.0,bank_transfer,South Africa,Cape Town,Delivered
+ORD2025-00335,2025-02-07,CUST7701,SKU1012,USB‑C Charger 65W,1,34.9,34.9,credit_card,Japan,Tokyo,Returned
+ORD2025-00336,2025-04-17,CUST2414,SKU1009,Bluetooth Speaker,5,58.75,293.75,apple_pay,United Kingdom,London,Shipped
+ORD2025-00337,2025-05-27,CUST4334,SKU1005,27‑inch 4K Monitor,4,349.0,1396.0,credit_card,Japan,Tokyo,Delivered
+ORD2025-00338,2025-01-05,CUST1041,SKU1008,Laptop Stand Aluminum,5,32.9,164.5,apple_pay,Brazil,São Paulo,Processing
+ORD2025-00339,2025-04-25,CUST4526,SKU1011,Smartphone Stand,3,18.5,55.5,paypal,France,Paris,Processing
+ORD2025-00340,2025-03-16,CUST8113,SKU1007,Webcam 1080p,6,49.49,296.94,paypal,Germany,Berlin,Shipped
+ORD2025-00341,2025-01-26,CUST7102,SKU1009,Bluetooth Speaker,3,58.75,176.25,apple_pay,Australia,Sydney,Delivered
+ORD2025-00342,2025-02-27,CUST6208,SKU1002,Mechanical Keyboard,2,89.99,179.98,google_pay,Japan,Tokyo,Processing
+ORD2025-00343,2025-03-18,CUST3367,SKU1015,LED Desk Lamp,1,45.25,45.25,bank_transfer,Spain,Barcelona,Processing
+ORD2025-00344,2025-05-06,CUST2598,SKU1011,Smartphone Stand,6,18.5,111.0,paypal,Brazil,São Paulo,Cancelled
+ORD2025-00345,2025-01-19,CUST2191,SKU1004,Noise‑Cancelling Headphones,5,129.5,647.5,apple_pay,France,Paris,Cancelled
+ORD2025-00346,2025-01-19,CUST9980,SKU1004,Noise‑Cancelling Headphones,4,129.5,518.0,google_pay,Brazil,São Paulo,Returned
+ORD2025-00347,2025-05-07,CUST4611,SKU1007,Webcam 1080p,6,49.49,296.94,apple_pay,Spain,Barcelona,Cancelled
+ORD2025-00348,2025-01-20,CUST7443,SKU1008,Laptop Stand Aluminum,3,32.9,98.7,paypal,United Kingdom,London,Cancelled
+ORD2025-00349,2025-05-09,CUST8677,SKU1009,Bluetooth Speaker,4,58.75,235.0,apple_pay,Argentina,Buenos Aires,Processing
+ORD2025-00350,2025-04-28,CUST9701,SKU1010,Ergonomic Chair,5,199.99,999.95,apple_pay,Brazil,São Paulo,Returned
+ORD2025-00351,2025-01-29,CUST6464,SKU1007,Webcam 1080p,1,49.49,49.49,bank_transfer,Germany,Berlin,Processing
+ORD2025-00352,2025-01-14,CUST1390,SKU1011,Smartphone Stand,6,18.5,111.0,credit_card,Germany,Berlin,Shipped
+ORD2025-00353,2025-02-21,CUST9722,SKU1014,Graphic Tablet,1,269.0,269.0,paypal,Australia,Sydney,Returned
+ORD2025-00354,2025-01-14,CUST4330,SKU1012,USB‑C Charger 65W,4,34.9,139.6,credit_card,Brazil,São Paulo,Delivered
+ORD2025-00355,2025-01-29,CUST2935,SKU1015,LED Desk Lamp,3,45.25,135.75,google_pay,Argentina,Buenos Aires,Shipped
+ORD2025-00356,2025-01-20,CUST2238,SKU1004,Noise‑Cancelling Headphones,6,129.5,777.0,credit_card,Japan,Tokyo,Delivered
+ORD2025-00357,2025-02-13,CUST1086,SKU1005,27‑inch 4K Monitor,1,349.0,349.0,paypal,France,Paris,Processing
+ORD2025-00358,2025-03-17,CUST9146,SKU1014,Graphic Tablet,1,269.0,269.0,credit_card,Netherlands,Eindhoven,Returned
+ORD2025-00359,2025-03-27,CUST7482,SKU1008,Laptop Stand Aluminum,5,32.9,164.5,google_pay,Argentina,Buenos Aires,Shipped
+ORD2025-00360,2025-01-22,CUST5847,SKU1002,Mechanical Keyboard,2,89.99,179.98,bank_transfer,Netherlands,Eindhoven,Delivered
+ORD2025-00361,2025-01-20,CUST3297,SKU1011,Smartphone Stand,1,18.5,18.5,google_pay,Spain,Barcelona,Cancelled
+ORD2025-00362,2025-02-08,CUST8125,SKU1005,27‑inch 4K Monitor,3,349.0,1047.0,google_pay,Australia,Sydney,Delivered
+ORD2025-00363,2025-02-22,CUST9080,SKU1003,USB‑C Hub 7‑in‑1,4,39.95,159.8,apple_pay,Spain,Barcelona,Delivered
+ORD2025-00364,2025-03-27,CUST1944,SKU1007,Webcam 1080p,3,49.49,148.47,bank_transfer,Germany,Berlin,Delivered
+ORD2025-00365,2025-04-12,CUST9350,SKU1015,LED Desk Lamp,2,45.25,90.5,paypal,Canada,Toronto,Cancelled
+ORD2025-00366,2025-01-12,CUST3270,SKU1009,Bluetooth Speaker,2,58.75,117.5,paypal,Brazil,São Paulo,Delivered
+ORD2025-00367,2025-02-28,CUST8905,SKU1006,Portable SSD 1TB,3,119.99,359.97,google_pay,Germany,Berlin,Shipped
+ORD2025-00368,2025-04-25,CUST6523,SKU1008,Laptop Stand Aluminum,5,32.9,164.5,credit_card,Germany,Berlin,Returned
+ORD2025-00369,2025-01-31,CUST4708,SKU1009,Bluetooth Speaker,5,58.75,293.75,paypal,United States,New York,Returned
+ORD2025-00370,2025-02-16,CUST4770,SKU1004,Noise‑Cancelling Headphones,6,129.5,777.0,google_pay,Canada,Toronto,Cancelled
+ORD2025-00371,2025-01-04,CUST9840,SKU1009,Bluetooth Speaker,4,58.75,235.0,apple_pay,Argentina,Buenos Aires,Shipped
+ORD2025-00372,2025-03-07,CUST9922,SKU1001,Wireless Mouse,6,25.99,155.94,apple_pay,France,Paris,Shipped
+ORD2025-00373,2025-03-24,CUST1015,SKU1007,Webcam 1080p,3,49.49,148.47,apple_pay,France,Paris,Shipped
+ORD2025-00374,2025-05-08,CUST1732,SKU1010,Ergonomic Chair,3,199.99,599.97,bank_transfer,Japan,Tokyo,Shipped
+ORD2025-00375,2025-02-06,CUST5166,SKU1002,Mechanical Keyboard,1,89.99,89.99,google_pay,Brazil,São Paulo,Returned
+ORD2025-00376,2025-05-21,CUST6138,SKU1003,USB‑C Hub 7‑in‑1,6,39.95,239.7,paypal,Australia,Sydney,Shipped
+ORD2025-00377,2025-05-02,CUST1224,SKU1010,Ergonomic Chair,6,199.99,1199.94,credit_card,Argentina,Buenos Aires,Shipped
+ORD2025-00378,2025-04-20,CUST8430,SKU1006,Portable SSD 1TB,1,119.99,119.99,paypal,Brazil,São Paulo,Processing
+ORD2025-00379,2025-03-18,CUST3152,SKU1009,Bluetooth Speaker,6,58.75,352.5,bank_transfer,South Africa,Cape Town,Delivered
+ORD2025-00380,2025-04-16,CUST5030,SKU1007,Webcam 1080p,6,49.49,296.94,paypal,Netherlands,Eindhoven,Delivered
+ORD2025-00381,2025-01-27,CUST1157,SKU1006,Portable SSD 1TB,5,119.99,599.95,credit_card,United States,New York,Cancelled
+ORD2025-00382,2025-03-06,CUST1226,SKU1012,USB‑C Charger 65W,1,34.9,34.9,bank_transfer,Canada,Toronto,Shipped
+ORD2025-00383,2025-04-12,CUST3643,SKU1014,Graphic Tablet,4,269.0,1076.0,apple_pay,Australia,Sydney,Shipped
+ORD2025-00384,2025-05-17,CUST6931,SKU1001,Wireless Mouse,3,25.99,77.97,bank_transfer,Germany,Berlin,Processing
+ORD2025-00385,2025-02-05,CUST7085,SKU1014,Graphic Tablet,1,269.0,269.0,google_pay,South Africa,Cape Town,Shipped
+ORD2025-00386,2025-03-16,CUST3141,SKU1002,Mechanical Keyboard,4,89.99,359.96,apple_pay,Netherlands,Eindhoven,Returned
+ORD2025-00387,2025-02-05,CUST4388,SKU1012,USB‑C Charger 65W,5,34.9,174.5,bank_transfer,Australia,Sydney,Cancelled
+ORD2025-00388,2025-05-22,CUST1546,SKU1012,USB‑C Charger 65W,5,34.9,174.5,apple_pay,Japan,Tokyo,Processing
+ORD2025-00389,2025-04-20,CUST2921,SKU1011,Smartphone Stand,4,18.5,74.0,credit_card,Netherlands,Eindhoven,Cancelled
+ORD2025-00390,2025-05-22,CUST4690,SKU1002,Mechanical Keyboard,3,89.99,269.97,google_pay,Germany,Berlin,Shipped
+ORD2025-00391,2025-03-06,CUST6335,SKU1011,Smartphone Stand,3,18.5,55.5,paypal,South Africa,Cape Town,Returned
+ORD2025-00392,2025-03-08,CUST4806,SKU1013,Gaming Headset,1,79.99,79.99,google_pay,Canada,Toronto,Shipped
+ORD2025-00393,2025-05-02,CUST2555,SKU1001,Wireless Mouse,6,25.99,155.94,apple_pay,Colombia,Medellín,Delivered
+ORD2025-00394,2025-04-21,CUST4149,SKU1003,USB‑C Hub 7‑in‑1,5,39.95,199.75,credit_card,India,Bangalore,Shipped
+ORD2025-00395,2025-02-26,CUST9038,SKU1012,USB‑C Charger 65W,2,34.9,69.8,credit_card,Colombia,Medellín,Shipped
+ORD2025-00396,2025-02-22,CUST4701,SKU1003,USB‑C Hub 7‑in‑1,5,39.95,199.75,apple_pay,Netherlands,Eindhoven,Shipped
+ORD2025-00397,2025-01-20,CUST9376,SKU1011,Smartphone Stand,3,18.5,55.5,credit_card,United States,New York,Shipped
+ORD2025-00398,2025-05-03,CUST2850,SKU1010,Ergonomic Chair,3,199.99,599.97,credit_card,South Africa,Cape Town,Shipped
+ORD2025-00399,2025-03-09,CUST3759,SKU1014,Graphic Tablet,2,269.0,538.0,google_pay,Spain,Barcelona,Cancelled
+ORD2025-00400,2025-02-24,CUST9907,SKU1011,Smartphone Stand,1,18.5,18.5,credit_card,Brazil,São Paulo,Delivered
+ORD2025-00401,2025-04-09,CUST2775,SKU1013,Gaming Headset,1,79.99,79.99,apple_pay,South Africa,Cape Town,Returned
+ORD2025-00402,2025-05-12,CUST1122,SKU1015,LED Desk Lamp,4,45.25,181.0,paypal,Argentina,Buenos Aires,Shipped
+ORD2025-00403,2025-03-04,CUST3558,SKU1002,Mechanical Keyboard,5,89.99,449.95,paypal,South Africa,Cape Town,Cancelled
+ORD2025-00404,2025-03-17,CUST6687,SKU1002,Mechanical Keyboard,1,89.99,89.99,bank_transfer,France,Paris,Cancelled
+ORD2025-00405,2025-01-26,CUST4498,SKU1015,LED Desk Lamp,3,45.25,135.75,apple_pay,South Africa,Cape Town,Shipped
+ORD2025-00406,2025-02-03,CUST2980,SKU1013,Gaming Headset,5,79.99,399.95,apple_pay,Argentina,Buenos Aires,Cancelled
+ORD2025-00407,2025-02-22,CUST8041,SKU1009,Bluetooth Speaker,1,58.75,58.75,credit_card,Brazil,São Paulo,Shipped
+ORD2025-00408,2025-02-06,CUST9915,SKU1007,Webcam 1080p,4,49.49,197.96,credit_card,Brazil,São Paulo,Processing
+ORD2025-00409,2025-04-26,CUST1968,SKU1004,Noise‑Cancelling Headphones,1,129.5,129.5,google_pay,United States,New York,Returned
+ORD2025-00410,2025-03-09,CUST2118,SKU1004,Noise‑Cancelling Headphones,5,129.5,647.5,paypal,United Kingdom,London,Returned
+ORD2025-00411,2025-05-02,CUST3157,SKU1010,Ergonomic Chair,6,199.99,1199.94,bank_transfer,Australia,Sydney,Cancelled
+ORD2025-00412,2025-02-23,CUST3184,SKU1004,Noise‑Cancelling Headphones,3,129.5,388.5,paypal,Spain,Barcelona,Returned
+ORD2025-00413,2025-03-18,CUST3255,SKU1001,Wireless Mouse,2,25.99,51.98,credit_card,Netherlands,Eindhoven,Shipped
+ORD2025-00414,2025-02-08,CUST2331,SKU1002,Mechanical Keyboard,1,89.99,89.99,google_pay,India,Bangalore,Shipped
+ORD2025-00415,2025-05-09,CUST2548,SKU1007,Webcam 1080p,2,49.49,98.98,bank_transfer,Brazil,São Paulo,Shipped
+ORD2025-00416,2025-05-18,CUST7857,SKU1012,USB‑C Charger 65W,6,34.9,209.4,credit_card,United States,New York,Processing
+ORD2025-00417,2025-01-20,CUST7079,SKU1006,Portable SSD 1TB,6,119.99,719.94,google_pay,United Kingdom,London,Shipped
+ORD2025-00418,2025-02-16,CUST7307,SKU1001,Wireless Mouse,5,25.99,129.95,apple_pay,Netherlands,Eindhoven,Returned
+ORD2025-00419,2025-02-09,CUST8288,SKU1007,Webcam 1080p,3,49.49,148.47,apple_pay,Japan,Tokyo,Returned
+ORD2025-00420,2025-01-04,CUST2623,SKU1009,Bluetooth Speaker,5,58.75,293.75,bank_transfer,Colombia,Medellín,Returned
+ORD2025-00421,2025-03-03,CUST7199,SKU1005,27‑inch 4K Monitor,3,349.0,1047.0,paypal,Spain,Barcelona,Delivered
+ORD2025-00422,2025-01-15,CUST4464,SKU1005,27‑inch 4K Monitor,6,349.0,2094.0,apple_pay,Germany,Berlin,Delivered
+ORD2025-00423,2025-05-21,CUST8931,SKU1001,Wireless Mouse,6,25.99,155.94,credit_card,United States,New York,Returned
+ORD2025-00424,2025-01-13,CUST2784,SKU1012,USB‑C Charger 65W,4,34.9,139.6,bank_transfer,France,Paris,Processing
+ORD2025-00425,2025-02-05,CUST9509,SKU1002,Mechanical Keyboard,2,89.99,179.98,apple_pay,Argentina,Buenos Aires,Delivered
+ORD2025-00426,2025-01-13,CUST5668,SKU1004,Noise‑Cancelling Headphones,4,129.5,518.0,paypal,Australia,Sydney,Delivered
+ORD2025-00427,2025-04-23,CUST1130,SKU1011,Smartphone Stand,4,18.5,74.0,google_pay,Brazil,São Paulo,Shipped
+ORD2025-00428,2025-01-17,CUST3304,SKU1007,Webcam 1080p,1,49.49,49.49,bank_transfer,Australia,Sydney,Shipped
+ORD2025-00429,2025-03-11,CUST6773,SKU1002,Mechanical Keyboard,5,89.99,449.95,google_pay,Germany,Berlin,Cancelled
+ORD2025-00430,2025-02-01,CUST5479,SKU1015,LED Desk Lamp,5,45.25,226.25,google_pay,Argentina,Buenos Aires,Shipped
+ORD2025-00431,2025-02-08,CUST8748,SKU1007,Webcam 1080p,5,49.49,247.45,credit_card,United States,New York,Delivered
+ORD2025-00432,2025-04-18,CUST7293,SKU1008,Laptop Stand Aluminum,4,32.9,131.6,bank_transfer,France,Paris,Cancelled
+ORD2025-00433,2025-03-23,CUST7595,SKU1003,USB‑C Hub 7‑in‑1,5,39.95,199.75,paypal,Mexico,Mexico City,Shipped
+ORD2025-00434,2025-01-07,CUST2017,SKU1001,Wireless Mouse,3,25.99,77.97,paypal,United States,New York,Cancelled
+ORD2025-00435,2025-05-03,CUST6878,SKU1007,Webcam 1080p,3,49.49,148.47,apple_pay,Spain,Barcelona,Returned
+ORD2025-00436,2025-05-17,CUST6029,SKU1001,Wireless Mouse,5,25.99,129.95,paypal,Argentina,Buenos Aires,Shipped
+ORD2025-00437,2025-02-12,CUST3050,SKU1010,Ergonomic Chair,4,199.99,799.96,bank_transfer,South Africa,Cape Town,Processing
+ORD2025-00438,2025-01-09,CUST3480,SKU1014,Graphic Tablet,3,269.0,807.0,bank_transfer,Spain,Barcelona,Delivered
+ORD2025-00439,2025-01-23,CUST1226,SKU1012,USB‑C Charger 65W,2,34.9,69.8,bank_transfer,Colombia,Medellín,Returned
+ORD2025-00440,2025-04-06,CUST8411,SKU1002,Mechanical Keyboard,5,89.99,449.95,bank_transfer,Spain,Barcelona,Cancelled
+ORD2025-00441,2025-03-11,CUST9400,SKU1011,Smartphone Stand,5,18.5,92.5,credit_card,United States,New York,Delivered
+ORD2025-00442,2025-02-20,CUST9112,SKU1001,Wireless Mouse,5,25.99,129.95,apple_pay,United States,New York,Delivered
+ORD2025-00443,2025-01-18,CUST7703,SKU1003,USB‑C Hub 7‑in‑1,1,39.95,39.95,google_pay,France,Paris,Processing
+ORD2025-00444,2025-02-02,CUST8323,SKU1013,Gaming Headset,3,79.99,239.97,google_pay,United States,New York,Delivered
+ORD2025-00445,2025-04-28,CUST6103,SKU1008,Laptop Stand Aluminum,5,32.9,164.5,credit_card,Argentina,Buenos Aires,Processing
+ORD2025-00446,2025-05-13,CUST3769,SKU1011,Smartphone Stand,6,18.5,111.0,credit_card,United States,New York,Shipped
+ORD2025-00447,2025-04-03,CUST2412,SKU1005,27‑inch 4K Monitor,4,349.0,1396.0,paypal,Netherlands,Eindhoven,Cancelled
+ORD2025-00448,2025-01-25,CUST2931,SKU1008,Laptop Stand Aluminum,3,32.9,98.7,credit_card,Spain,Barcelona,Shipped
+ORD2025-00449,2025-04-24,CUST4308,SKU1003,USB‑C Hub 7‑in‑1,5,39.95,199.75,paypal,United Kingdom,London,Returned
+ORD2025-00450,2025-01-26,CUST7264,SKU1001,Wireless Mouse,5,25.99,129.95,paypal,South Africa,Cape Town,Processing
+ORD2025-00451,2025-03-08,CUST1608,SKU1002,Mechanical Keyboard,2,89.99,179.98,apple_pay,India,Bangalore,Shipped
+ORD2025-00452,2025-02-26,CUST6021,SKU1009,Bluetooth Speaker,3,58.75,176.25,bank_transfer,Argentina,Buenos Aires,Delivered
+ORD2025-00453,2025-01-02,CUST3643,SKU1015,LED Desk Lamp,5,45.25,226.25,bank_transfer,India,Bangalore,Delivered
+ORD2025-00454,2025-02-27,CUST4434,SKU1005,27‑inch 4K Monitor,4,349.0,1396.0,credit_card,Brazil,São Paulo,Returned
+ORD2025-00455,2025-03-21,CUST2078,SKU1011,Smartphone Stand,6,18.5,111.0,credit_card,Australia,Sydney,Delivered
+ORD2025-00456,2025-03-06,CUST7345,SKU1012,USB‑C Charger 65W,6,34.9,209.4,credit_card,Canada,Toronto,Processing
+ORD2025-00457,2025-03-14,CUST8101,SKU1012,USB‑C Charger 65W,1,34.9,34.9,paypal,India,Bangalore,Cancelled
+ORD2025-00458,2025-02-16,CUST1452,SKU1015,LED Desk Lamp,1,45.25,45.25,credit_card,Brazil,São Paulo,Processing
+ORD2025-00459,2025-03-11,CUST5384,SKU1001,Wireless Mouse,4,25.99,103.96,credit_card,Mexico,Mexico City,Cancelled
+ORD2025-00460,2025-04-24,CUST7642,SKU1013,Gaming Headset,4,79.99,319.96,credit_card,Spain,Barcelona,Shipped
+ORD2025-00461,2025-01-24,CUST7965,SKU1005,27‑inch 4K Monitor,2,349.0,698.0,bank_transfer,France,Paris,Delivered
+ORD2025-00462,2025-03-02,CUST6318,SKU1006,Portable SSD 1TB,3,119.99,359.97,paypal,Spain,Barcelona,Delivered
+ORD2025-00463,2025-02-05,CUST1731,SKU1002,Mechanical Keyboard,1,89.99,89.99,google_pay,Japan,Tokyo,Shipped
+ORD2025-00464,2025-05-26,CUST1224,SKU1009,Bluetooth Speaker,6,58.75,352.5,credit_card,Spain,Barcelona,Processing
+ORD2025-00465,2025-04-16,CUST3703,SKU1009,Bluetooth Speaker,4,58.75,235.0,credit_card,Brazil,São Paulo,Processing
+ORD2025-00466,2025-02-26,CUST1344,SKU1015,LED Desk Lamp,1,45.25,45.25,google_pay,United States,New York,Shipped
+ORD2025-00467,2025-03-03,CUST5326,SKU1007,Webcam 1080p,6,49.49,296.94,apple_pay,France,Paris,Cancelled
+ORD2025-00468,2025-05-20,CUST4651,SKU1009,Bluetooth Speaker,4,58.75,235.0,google_pay,Spain,Barcelona,Cancelled
+ORD2025-00469,2025-04-29,CUST8381,SKU1001,Wireless Mouse,2,25.99,51.98,google_pay,United Kingdom,London,Processing
+ORD2025-00470,2025-03-10,CUST8439,SKU1013,Gaming Headset,1,79.99,79.99,bank_transfer,Germany,Berlin,Delivered
+ORD2025-00471,2025-01-07,CUST1736,SKU1011,Smartphone Stand,2,18.5,37.0,credit_card,India,Bangalore,Shipped
+ORD2025-00472,2025-01-27,CUST6294,SKU1006,Portable SSD 1TB,2,119.99,239.98,paypal,Brazil,São Paulo,Delivered
+ORD2025-00473,2025-01-24,CUST9098,SKU1014,Graphic Tablet,2,269.0,538.0,google_pay,South Africa,Cape Town,Returned
+ORD2025-00474,2025-01-28,CUST9014,SKU1003,USB‑C Hub 7‑in‑1,2,39.95,79.9,paypal,United States,New York,Shipped
+ORD2025-00475,2025-02-18,CUST7678,SKU1010,Ergonomic Chair,4,199.99,799.96,bank_transfer,Australia,Sydney,Cancelled
+ORD2025-00476,2025-01-23,CUST4142,SKU1010,Ergonomic Chair,5,199.99,999.95,google_pay,Colombia,Medellín,Delivered
+ORD2025-00477,2025-05-07,CUST1988,SKU1006,Portable SSD 1TB,5,119.99,599.95,google_pay,South Africa,Cape Town,Shipped
+ORD2025-00478,2025-03-15,CUST8620,SKU1015,LED Desk Lamp,3,45.25,135.75,paypal,United Kingdom,London,Returned
+ORD2025-00479,2025-01-04,CUST8874,SKU1015,LED Desk Lamp,3,45.25,135.75,google_pay,South Africa,Cape Town,Delivered
+ORD2025-00480,2025-03-14,CUST8530,SKU1008,Laptop Stand Aluminum,1,32.9,32.9,credit_card,Netherlands,Eindhoven,Returned
+ORD2025-00481,2025-01-18,CUST4236,SKU1013,Gaming Headset,3,79.99,239.97,paypal,Japan,Tokyo,Delivered
+ORD2025-00482,2025-04-15,CUST5844,SKU1003,USB‑C Hub 7‑in‑1,5,39.95,199.75,credit_card,France,Paris,Delivered
+ORD2025-00483,2025-05-15,CUST6894,SKU1015,LED Desk Lamp,6,45.25,271.5,paypal,South Africa,Cape Town,Processing
+ORD2025-00484,2025-03-27,CUST7777,SKU1005,27‑inch 4K Monitor,6,349.0,2094.0,google_pay,Argentina,Buenos Aires,Delivered
+ORD2025-00485,2025-05-08,CUST2614,SKU1003,USB‑C Hub 7‑in‑1,6,39.95,239.7,apple_pay,Argentina,Buenos Aires,Shipped
+ORD2025-00486,2025-02-05,CUST2048,SKU1006,Portable SSD 1TB,6,119.99,719.94,apple_pay,France,Paris,Shipped
+ORD2025-00487,2025-02-17,CUST1701,SKU1007,Webcam 1080p,4,49.49,197.96,apple_pay,Canada,Toronto,Shipped
+ORD2025-00488,2025-02-21,CUST4284,SKU1014,Graphic Tablet,3,269.0,807.0,apple_pay,United Kingdom,London,Shipped
+ORD2025-00489,2025-01-21,CUST9245,SKU1002,Mechanical Keyboard,2,89.99,179.98,paypal,Spain,Barcelona,Processing
+ORD2025-00490,2025-05-05,CUST3730,SKU1015,LED Desk Lamp,6,45.25,271.5,google_pay,Canada,Toronto,Returned
+ORD2025-00491,2025-04-19,CUST5714,SKU1001,Wireless Mouse,6,25.99,155.94,bank_transfer,South Africa,Cape Town,Cancelled
+ORD2025-00492,2025-01-12,CUST9189,SKU1004,Noise‑Cancelling Headphones,3,129.5,388.5,apple_pay,Germany,Berlin,Returned
+ORD2025-00493,2025-05-23,CUST4281,SKU1008,Laptop Stand Aluminum,3,32.9,98.7,credit_card,United Kingdom,London,Cancelled
+ORD2025-00494,2025-02-22,CUST8348,SKU1006,Portable SSD 1TB,2,119.99,239.98,apple_pay,Spain,Barcelona,Delivered
+ORD2025-00495,2025-04-05,CUST3821,SKU1009,Bluetooth Speaker,3,58.75,176.25,google_pay,Canada,Toronto,Cancelled
+ORD2025-00496,2025-03-16,CUST2691,SKU1013,Gaming Headset,6,79.99,479.94,apple_pay,France,Paris,Processing
+ORD2025-00497,2025-02-16,CUST6065,SKU1001,Wireless Mouse,3,25.99,77.97,google_pay,India,Bangalore,Shipped
+ORD2025-00498,2025-03-22,CUST9510,SKU1012,USB‑C Charger 65W,1,34.9,34.9,paypal,Colombia,Medellín,Shipped
+ORD2025-00499,2025-02-17,CUST2041,SKU1002,Mechanical Keyboard,6,89.99,539.94,google_pay,Japan,Tokyo,Returned
+ORD2025-00500,2025-02-23,CUST7693,SKU1003,USB‑C Hub 7‑in‑1,1,39.95,39.95,credit_card,Spain,Barcelona,Shipped
