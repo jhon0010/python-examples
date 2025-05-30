@@ -112,3 +112,13 @@ python3 src/data/matplot_example.py
 You can find other python scripts in the `src/data` directory that interact with the `orders.csv` file.
 
 This will read the `orders.csv` file and perform the operations defined in the script.
+
+
+# Run locus load tests 
+
+To run the load tests using Locus, you can use the following command:
+
+```bash
+locust -f src/locus_test/locus_user_api_test.py
+```
+This command will start the Locus web interface, which you can access at `http://localhost:8089` to configure and run your load tests.
